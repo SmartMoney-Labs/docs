@@ -1,0 +1,5 @@
+site_name: Smart Money Docs
+nav:
+    - Home: index.md
+
+theme: readthedocs
